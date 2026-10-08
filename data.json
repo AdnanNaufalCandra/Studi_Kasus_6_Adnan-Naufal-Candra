@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "beras 5 KG",
+        "stok": 20,
+        "harga": 65000
+    },
+    {
+        "nama": "minyak goreng sawit 1 L",
+        "stok": 35,
+        "harga": 18000
+    },
+    {
+        "nama": "gula pasir 1 KG",
+        "stok": 50,
+        "harga": 16000
+    },
+    {
+        "nama": "telur ayam 1 KG",
+        "stok": 15,
+        "harga": 30000
+    },
+    {
+        "nama": "air mineral",
+        "stok": 60,
+        "harga": 3000
+    }
+]
